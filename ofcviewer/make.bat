@@ -1,14 +1,17 @@
 @echo off
 
 if "%1"=="download" (
-  cd files\installer_ja
+  cd files\ofcview
+  call 0download.bat
+  cd ..\fmtconv
   call 0download.bat
   cd ..\..
   goto end
 )
 
 if "%1"=="distclean" (
-  del files\installer_ja\*.exe
+  del files\ofcview\*.exe
+  del files\fmtconv\*.exe
   del files\complete.inf
   del files\readme.txt
   goto end
@@ -18,7 +21,7 @@ echo "Build listfile"
 cd build
 copy x:\site\winsppm\updater\list\default_w7_x64.lst .
 c:\perl\bin\perl spmaker_parse_ofcview.pl
-copy ofcview.inf ..\files\installer_ja
+copy ofcview.inf ..\files\ofcview
 del ofcview.inf
 cd ..
 

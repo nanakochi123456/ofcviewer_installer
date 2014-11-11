@@ -13,6 +13,22 @@ http://www.microsoft.com/ja-jp/download/details.aspx?id=35811
 
 Microsoft Updateが有効です。自動アップデートするようにしましょう。
 
+■各Office Viewerの説明■
+
+・Word Viewer 2003
+　Word 2003ベースで作成されている Word Viewerです。
+　Word 2007以降のドキュメントを開くための互換機能パックもインストールされています。
+
+・Excel Viewer 2007
+　カーソル移動ができ、内容の文字をコピーすることができる Excel Viewerです。
+
+・PowerPoint Viewer 2010
+　スライドショーのみ表示できる Power Point Viewer です。
+　ESCキーを押すと、終了します。
+
+・Visio Viewer 2013
+　Microsoft Internet Explorerのアドオンとして動作するビュワーです。
+
 ■Version 1.0履歴■
 
 2014/11/11 初版

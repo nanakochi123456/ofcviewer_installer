@@ -15,5 +15,10 @@ set copydir=%windir%\syswow64
 goto install
 
 :install
-cd installer_ja
+cd ofcview
 call 0install.bat
+cd ..
+
+cd fmtconv
+call 0install.bat
+cd ..
