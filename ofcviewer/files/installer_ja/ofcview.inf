@@ -1,0 +1,31 @@
+1/31,Microsoft Word Viewer,WORDVIEW,http://download.microsoft.com/download/1/0/1/1016da1b-6a19-432a-ad6b-0b3f6e60bb28/wordview_ja-jp.exe,/quiet /norestart,25659704
+2/31,Microsoft Word Viewer 2003 Service Pack 3  KB934736,WV2K3SP3,http://download.microsoft.com/download/6/e/1/6e1389d9-94ee-43d1-9b6d-59cb25dfdc07/WordViewer2003SP3-KB934736-FullFile-JPN.exe,/Q:A /R:N,12869720
+3/31,Microsoft Office 2003 のセキュリティ更新プログラム  KB2288613,2288613,http://download.microsoft.com/download/B/D/7/BD7D2EC1-45F0-4623-82A9-73AE4C468858/office2003-KB2288613-FullFile-JPN.exe,/Q:A /R:N,674720
+4/31,Microsoft Office 2003 の更新プログラム  KB2539581,2539581,http://download.microsoft.com/download/A/B/B/ABB6AD17-B445-4ED4-8457-DC2A30AED91B/office2003-KB2539581-FullFile-JPN.exe,/Q:A /R:N,1052064
+5/31,Microsoft Office 2003 のセキュリティ更新プログラム  KB2760574,2760574,http://download.microsoft.com/download/3/F/D/3FDABEAD-AC13-4374-AFF9-A50FA34951A2/office2003-KB2760574-FullFile-JPN.exe,/Q:A /R:N,939632
+6/31,Microsoft Office 2003 のセキュリティ更新プログラム  KB2817480,2817480,http://download.microsoft.com/download/2/A/5/2A524CA9-6B96-4E9D-AB01-1A7AA9492804/office2003-KB2817480-FullFile-JPN.exe,/Q:A /R:N,1250528
+7/31,Microsoft Office 2003 のセキュリティ更新プログラム  KB2850047,2850047,http://download.microsoft.com/download/C/3/3/C33E0467-BF5F-4684-938C-562FBD41FB1E/office2003-KB2850047-FullFile-JPN.exe,/Q:A /R:N,1250608
+8/31,Microsoft Word Viewer 2003 のセキュリティ更新プログラム  KB2878304,2878304,http://download.microsoft.com/download/A/C/E/ACE91FAC-C1F5-4B61-AA85-CA72AE06B080/office-KB2878304-FullFile-JPN.exe,/Q:A /R:N,3643168
+9/31,Microsoft Office 2003 の更新プログラム  KB2883044,2883044,http://download.microsoft.com/download/1/D/E/1DEC7D6F-8F70-4750-B79F-C593C614655D/office2003-KB2883044-FullFile-JPN.exe,/Q:A /R:N,5616408
+10/31,Microsoft Excel Viewer,XLVIEW,http://download.microsoft.com/download/4/6/C/46C73A03-F72F-419F-A76E-6C0D9F583E2E/ExcelViewer.exe,/quiet /norestart,53995584
+11/31,Microsoft Excel Viewer 2007 Service Pack 3  KB2526302,XV2K7SP3,http://download.microsoft.com/download/2/0/D/20DADC42-1EF5-4401-A58D-AB20A7C936E9/excelviewer2007sp3-kb2526302-fullfile-ja-jp.exe,/quiet /norestart,40427792
+12/31,Microsoft Office 2007 の更新プログラム  KB2767849,2767849,http://download.microsoft.com/download/4/C/8/4C8E6002-312F-4752-9A41-001A15EAA900/msxml52007-kb2767849-fullfile-x86-glb.exe,/quiet /norestart,6722224
+13/31,Microsoft Office 2007 のセキュリティ更新プログラム  KB2597973,2597973,http://download.microsoft.com/download/4/C/A/4CAD640D-CE7C-43DF-A74F-7A3A48B42FF9/msptls2007-kb2597973-fullfile-x86-glb.exe,/quiet /norestart,5826376
+14/31,Microsoft Office 2007 のセキュリティ更新プログラム  KB2760585,2760585,http://download.microsoft.com/download/5/6/7/56737F30-A7CB-4DA6-91D4-92E812252A0F/oart2007-kb2760585-fullfile-x86-glb.exe,/quiet /norestart,10213096
+15/31,Microsoft Office 2007 のセキュリティ更新プログラム  KB2878233,2878233,http://download.microsoft.com/download/3/E/D/3ED3A908-A0B0-468B-B9AB-29B35E2969B9/ogl2007-kb2878233-fullfile-x86-glb.exe,/quiet /norestart,6367296
+16/31,Microsoft Office 2007 の更新プログラム  KB2837609,2837609,http://download.microsoft.com/download/F/E/C/FECF92CB-81AB-4A1D-8739-BF3B2B46B756/mso2007-kb2837609-fullfile-x86-glb.exe,/quiet /norestart,13070928
+17/31,Microsoft Excel Viewer 2007 の更新プログラム  KB2837614,2837614,http://download.microsoft.com/download/2/A/D/2AD10C52-361F-4FF7-8CC1-3E668A5EE128/xlview2007-kb2837614-fullfile-x86-glb.exe,/quiet /norestart,7757072
+18/31,Microsoft PowerPoint Viewer,PPVIEW,http://download.microsoft.com/download/9/2/A/92AEA2B8-CBD9-494D-B60B-F1E6D8EE1771/PowerPointViewer.exe,/quiet /norestart,63336392
+19/31,Microsoft PowerPoint Viewer 2010 Service Pack 2   KB2687456,PV2K10SP2,http://download.microsoft.com/download/A/9/A/A9AD9465-5212-4DF2-828B-A1B18C7268E6/ppviewersp2010-kb2687456-fullfile-x86-ja-jp.exe,/quiet /norestart,40578512
+20/31,Microsoft Office 2010 の更新プログラム   KB2760598,2760598,http://download.microsoft.com/download/D/7/5/D75F4327-F4FF-46D4-82BB-6EEF2AF3734D/csi2010-kb2760598-fullfile-x86-glb.exe,/quiet /norestart,7621040
+21/31,Microsoft Office 2010 の更新プログラム   KB2589352,2589352,http://download.microsoft.com/download/D/C/0/DC0E808B-7AB3-4FBB-AE0E-974EC86FC904/oleo2010-kb2589352-fullfile-x86-glb.exe,/quiet /norestart,2896272
+22/31,Microsoft Office 2010 の更新プログラム   KB2597087,2597087,http://download.microsoft.com/download/9/7/D/97DECAC9-C2F5-46E8-96F2-D6267DD6BAED/msores2010-kb2597087-fullfile-x86-glb.exe,/quiet /norestart,11985000
+23/31,Microsoft PowerPoint Viewer 2010 の更新プログラム   KB2837586,2837586,http://download.microsoft.com/download/4/2/F/42FD12C7-E99A-44C9-B0AE-47346699C617/pptview2010-kb2837586-fullfile-x86-glb.exe,/quiet /norestart,8679408
+24/31,Microsoft PowerPoint 2010 の更新プログラム   KB2837579,2837579,http://download.microsoft.com/download/E/E/F/EEFE9C56-DCF6-4A3A-89DF-04ADE66A5700/powerpointloc2010-kb2837579-fullfile-x86-glb.exe,/quiet /norestart,58026064
+25/31,Microsoft Office 2010 の更新プログラム   KB2825635,2825635,http://download.microsoft.com/download/7/3/6/73669BA0-3B47-4F09-85F8-7B1A7AC66353/gkall2010-kb2825635-fullfile-x86-glb.exe,/quiet /norestart,4000216
+26/31,Microsoft Office 2010 の更新プログラム   KB2837581,2837581,http://download.microsoft.com/download/8/D/A/8DA8EBAF-CA8D-49FB-A696-DE3E6A78D429/oart2010-kb2837581-fullfile-x86-glb.exe,/quiet /norestart,9006728
+27/31,Microsoft Office 2010 の更新プログラム   KB2878252,2878252,http://download.microsoft.com/download/6/D/D/6DDE4B0B-9033-4DE6-A56E-97143457DAEA/mso2010-kb2878252-fullfile-x86-glb.exe,/quiet /norestart,9980448
+28/31,Microsoft Office 2010 のセキュリティ更新プログラム   KB2881071,2881071,http://download.microsoft.com/download/9/0/C/90C4B6BE-DCDE-4808-A9FC-E85C12A40DD7/usp102010-kb2881071-fullfile-x86-glb.exe,/quiet /norestart,1634088
+29/31,Microsoft Visio Viewer 2013,VVIEW2K13,http://download.microsoft.com/download/A/A/4/AA4DA27C-8C61-4247-8E75-5AEE66C41ABA/VisioViewer32bit_ja-jp.exe,/quiet /norestart,11640808
+30/31,Microsoft Visio Viewer 2013 Service Pack 1   KB2817444,VV2K13SP1,http://download.microsoft.com/download/6/E/D/6ED4975D-71B0-40F7-B1EE-A010AB8EAB02/vviewersp2013-kb2817444-fullfile-x86-ja-jp.exe,/quiet /norestart,8555144
+31/31,Microsoft Visio Viewer 2013 の更新プログラム   KB2817301,2817301,http://download.microsoft.com/download/2/B/7/2B77B1DD-7F78-40F7-885E-6087CBCF332E/vviewer2013-kb2817301-fullfile-x86-glb.exe,/quiet /norestart,9489704
